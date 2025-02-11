@@ -1,6 +1,6 @@
 # 相关链接
 + 代码仓库: [https://github.com/lwmacct/250211-cr-rsync](https://github.com/lwmacct/250211-cr-rsync)
-
++ 语雀文档: [https://www.yuque.com/lwmacct/docker-run/rsync](https://www.yuque.com/lwmacct/docker-run/rsync)
 # 功能特点
 + 基于最新版本的rsync服务
 + 提供两个预配置的共享目录：
